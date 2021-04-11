@@ -1,0 +1,52 @@
+- 1 - Tolerances + surface quality parts to choose :
+(1) Shaft
+(2) Bearings
+(3) Gear
+
+I think that we can choose 4 other pieces from another part of the whole system since they
+would like we have 5 drawings but the 3 ones are quite simple :-)
+We could say that we design the pulleys ourself ? It is not complicated to find the
+pieces
+Remarks (if not clear, tell me and we can discuss)
+
+- 2 - General remarks : 
+
+* for the bolts, check on internet on to "dimension" them
+--> often M16 or M20 are commonly used but check the load they can support
+and thus adapt the number of bolts
+
+* for the rails and the rack on the beam, we need to discuss altogheter (I talked with my
+dad to see or it would be more pratical) in order to place the bearings, motoreductor,...
+
+* For the rack and pinion "area", still remains shaft (Youri), bearings (already done ?),
+gear
+
+*it is possible that we would need to add stuff like a "block" to link easier parts on
+the trolley
+
+- 3 - Remarks on different parts
+(1) Drum :
+	- need bearings (see the ones in the folder "Palonnier")
+	- motor could be done like the one of Aurélien (palonnier) (but see the remark
+on that : there should be a "accouplement")
+	- how the motor and the drum will be attached on the plateform ?
+
+(2) Palonnier :
+	- Very nice !
+	- Bolts : how did you dimensioned them ? (M16 or M20 are typical bolts used)
+	- Add between the 2 "faces" a part that would make the structure more rigid
+	- The 2 "faces" are not fixed to the other pieces --> need bolts or smthg else
+	- Motor shaft : needs a key way (the key is just in contact)
+	- Motor shaft need a "accouplement" between motor shaft and cylinder (to ensure
+that both remain always aligned : there is a "caoutchouc" in the accouplement => flexible)
+	- How the motor is "attached" to the "top" ?
+
+(3) Slewing ring :
+	- the device that makes rotate the ring is missing
+	- be careful to the way the different part are fixes/assembled
+	- it is needed to have the motor (even a simple one like Aurélien downloaded)
+
+(4) Rollers :
+	- Nearly nothing done (see the Demag pdf with the cross sections and dimensions
+check in the report 3 which have been chosen)
+
