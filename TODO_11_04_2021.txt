@@ -33,13 +33,19 @@ on that : there should be a "accouplement")
 
 (2) Palonnier :
 	- Very nice !
-	- Bolts : how did you dimensioned them ? (M16 or M20 are typical bolts used)
-	- Add between the 2 "faces" a part that would make the structure more rigid
-	- The 2 "faces" are not fixed to the other pieces --> need bolts or smthg else
-	- Motor shaft : needs a key way (the key is just in contact)
-	- Motor shaft need a "accouplement" between motor shaft and cylinder (to ensure
-that both remain always aligned : there is a "caoutchouc" in the accouplement => flexible)
-	- How the motor is "attached" to the "top" ?
+	- Bolts : how did you dimensioned them ? (M16 or M20 are typical bolts used) 	   J'ai juste mis les boulons visuellement, sans dimensionnement => Caro
+									     	     	   a dit que on devait plus dimensionner : L'idée de mettre un boulon est
+									 	     	   suffisante, c'est plus pour vérifier "comment ça marche". En réalité je 
+										     	   viens de dimensionner, le M8 suffit pas. 
+	- Add between the 2 "faces" a part that would make the structure more rigid        Je pense que c'est pas nécessaire, niveau des efforts, c'est pas censé 
+										           faire écarter les 2 plaques, mais j'y avais pensé.
+	- The 2 "faces" are not fixed to the other pieces --> need bolts or smthg else ??? C'est justement les boulons M8 ?
+	- Motor shaft : needs a key way (the key is just in contact)                       En réalité le moteur est bloqué, ce pourquoi j'ai pas créé d'ajustement
+										       	   Sinon le cylindre tourne bien sur les bearing, ce serait cassé la beauté 
+ 											   beauté de l'assemblage mais comme tu veux
+	- Motor shaft need a "accouplement" between motor shaft and cylinder (to ensure    
+that both remain always aligned : there is a "caoutchouc" in the accouplement => flexible) Je comprends pas ton com' :/
+	- How the motor is "attached" to the "top" ?                                       Je vais rajouter des vis, merci :)                      
 
 (3) Slewing ring :
 	- the device that makes rotate the ring is missing
