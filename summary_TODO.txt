@@ -1,0 +1,16 @@
+3 people on the 2D drawings of shaft, key, gear
+
+The rest on the 3D :
+
+-How to organize the A0 sheet ?
+
+Part 1 :
+	- what 3D views ?
+	- what exploded views ?
+	- where do we need section views ?
+	- etc.
+
+Part 2 :
+	- all the "mechanisms" should be represented and one should understand
+how they work /!\ communication is important
+	--> see the tech. report. 2 with the different functions to see clearer
