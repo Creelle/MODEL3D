@@ -1,0 +1,17 @@
+To do list : 
+
+- Make a big table + put the bulles
+
+- Add some dimensions
+
+- Fill the cartouche 
+
+- Add dotted lines for the beam on the 3D view
+
+- Add rack on the EV of the pinion 
+
+- Add arrows between piece and exploded view
+
+- Put rectangles for the different parts of the drawing
+
+- (LAST) Add some cables with sketches
