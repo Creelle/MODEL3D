@@ -1,0 +1,36 @@
+
+Defining the problem (introduction) "moving heavy parts in hanger" + Speak about the heavy part come from firefighting plane Seagle. Maybe thanks Gaëtan to allow us the oppurtunity to have this project (suce boule p-e) (ask in the matrix)
+
+Solution (designing of over head crane)
+
+some of the main specification
+
+Going through design process (according to the specifications)
+
+challenges faced during this process (have to change preliminary layout) (Maybe size of the beam is a big one (during dimensionning), maybe the paloniers were also "complicated" solution for the 2e rotation)
+
+justify how we managed to solve this and made good choice.
+
+prove the feasibilty of design according to specification
+
+show dimensioning of main parts and they will not fail under max condition
+
+some detail on parts which are available in market and which have to give to manufacturer
+
+present our solution with different views
+
+add animation video if possible => I think it will be difficult
+
+cost estimation
+
+SOME EXTRA NOT MENTION IN EVALUATION MATRIX
+
+
+sustainabilty and life of the product.
+
+warrenty of the product
+
+
+
+
+
